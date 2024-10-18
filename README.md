@@ -52,6 +52,4 @@ Special thanks to the Java community for their support and resources.
 
 ## Author
 Kumar P.  
-Bachelor of Technology in Information Technology.
-Kings engineering college
-
+Bachelor of Technology in Information Technology
