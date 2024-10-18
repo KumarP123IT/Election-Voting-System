@@ -49,6 +49,12 @@ This Java application simulates a simple election voting system. It allows users
 - DMDK
 - MNM
 
+## Future Improvements
+- Implement persistent storage for votes (e.g., database).
+- Enhance user input validation and error handling.
+- Refactor code for better modularity and readability.
+- Allow users to update their votes before finalizing.
+
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
 
