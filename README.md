@@ -40,6 +40,15 @@ This Java application simulates a simple election voting system. It allows users
 5. Type exit to stop voting.
 6. Optionally, you can choose to see the voting results.
 
+## Parties Available
+- DMK
+- AIADMK
+- BJP
+- INC
+- TNCC
+- DMDK
+- MNM
+
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
 
