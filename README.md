@@ -19,7 +19,7 @@ This Java application simulates a simple election voting system. It allows users
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/KumarP123IT/Election-voting-system.git
+   git clone https://github.com/KumarP123IT/Election-Voting-System.git
 
 2. Navigate to the project directory:
    ```bash
@@ -49,3 +49,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 Inspired by real-world voting systems.
 Special thanks to the Java community for their support and resources.
+
+## Author
+   Kumar P b.Tech-IT
