@@ -59,7 +59,7 @@ This Java application simulates a simple election voting system. It allows users
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this project as per the terms of the license.
 
 ## Acknowledgments
 Inspired by real-world voting systems.
